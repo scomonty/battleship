@@ -1,2 +1,2 @@
 # battleship
-http://scomonty.github.io/battleship/battleship.html
+https://scomonty.github.io/battleship/battleship.html
